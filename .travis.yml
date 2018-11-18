@@ -4,4 +4,4 @@ node_js:
 install:
   - yarn
 script:
-  - echo "No tests yet! Should be yarn test."
+  - echo "No tests yet! Should be yarn test. please write test"
